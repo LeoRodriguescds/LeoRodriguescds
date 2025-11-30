@@ -26,7 +26,11 @@
 
 ###
 
-<h4 align="left">👋 Hi, I'm Leonardo Rodrigues, a full-stack developer with a passion for technology and innovation. I have and am gaining more and more experience in various back-end and front-end technologies, always seeking to create robust and efficient solutions. My goal is to continue improving my skills and become a reference in the software development market. Invite me to a project! 🚀</h4>
+<h4 align="left">👋 Hi, I'm Leonardo Rodrigues, a Software Engineer with experience developing automation and AI-driven solutions that enhance operational efficiency, system
+reliability, and cybersecurity readiness. Skilled in building scalable backend and full-stack applications using Java, Python,
+and TypeScript, with hands-on experience applying machine learning models to optimize workflows and reduce manual processes. Proven ability to design automated pipelines, integrate cloud-native architectures, and deliver impactful engineering
+outcomes through cross-team collaboration.
+ 🚀</h4>
 
 ###
 
